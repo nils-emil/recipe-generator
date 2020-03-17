@@ -1,0 +1,8 @@
+INSERT INTO recipe (description, cook_duration, food_type)
+VALUES
+('VISKA PIIM JA MÜSLI KOKKU', 2, 'BREAKFAST'),
+('RANDOM TOIT', 20, 'LUNCH'),
+('VISKA PIIM JA MÜSLI KOKKU', 2, 'LUNCH'),
+('PRAE KÕIK MIS KAPIS', 20, 'LUNCH'),
+('RANDOM TOIT', 20, 'DINNER'),
+('VISKA PIIM JA MÜSLI KOKKU', 2, 'DINNER');
